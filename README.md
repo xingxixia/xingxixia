@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2b2f38?style=flat-square&logo=python&logoColor=ffcf56" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-2b2f38?style=flat-square&logo=cplusplus&logoColor=5b8def" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-2b2f38?style=flat-square&logo=cplusplus&logoColor=5b8def" alt="C++" />
   <img src="https://img.shields.io/badge/ROS-2b2f38?style=flat-square&logo=ros&logoColor=a7e9ff" alt="ROS" />
   <img src="https://img.shields.io/badge/Linux-2b2f38?style=flat-square&logo=linux&logoColor=ffffff" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-2b2f38?style=flat-square&logo=git&logoColor=ff7aa2" alt="Git" />
@@ -85,16 +85,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingxixia/xingxixia/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xingxixia/xingxixia/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/xingxixia/xingxixia/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-
-`// 档案仍在更新中`
+<img src="./assets/contribution-snake.svg" alt="Contribution snake" />
 
 </div>
