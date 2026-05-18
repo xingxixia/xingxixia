@@ -58,6 +58,19 @@
 | `Robotics` | ROS 实践、机器人实验、传感器、建图与控制 |
 | `Workbench` | 脚本、小工具、自动化和临时原型 |
 
+---
+
+## GitHub 信号
+
+<div align="center">
+
+<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+
+</div>
+
+---
+
 ## 活动轨迹
 
 <div align="center">
