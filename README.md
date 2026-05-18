@@ -1,10 +1,10 @@
 <div align="center">
 
-# XINGXIXIA / Research Profile
+# XINGXIXIA / 研究档案
 
-**Algorithms · Robotics · Paper Reading · AI Tools**
+**算法 · 机器人 · 论文阅读 · AI 工具**
 
-Building a personal lab for code, robots, papers, and practical AI workflows.
+这里会慢慢整理我的学习记录、实验轨迹、论文笔记，以及把想法做成可运行工具的过程。
 
 <br />
 
@@ -16,32 +16,32 @@ Building a personal lab for code, robots, papers, and practical AI workflows.
 
 ---
 
-## Identity
+## 身份记录
 
 ```text
 // profile
-name        : xingxixia
-role        : student / builder / paper reader
-focus       : algorithms, robotics, AI systems
-workspace   : notes, experiments, tools, local agents
+名字        : xingxixia
+状态        : 学习中 / 构建中 / 记录中
+方向        : 算法、机器人、AI 系统
+工作区      : 笔记、实验、小工具、本地 agent 工作流
 ```
 
-> I like turning scattered learning into reusable notes, runnable experiments, and small tools that make the next step easier.
+> 我想把零散的学习过程整理成可以回头看的笔记、可以运行的实验，以及能真正帮到自己的小工具。
 
 ---
 
-## Research Tracks
+## 研究轨道
 
-| Track | Current Focus |
+| 轨道 | 当前关注 |
 | --- | --- |
-| `[01] AlgorithmLab` | Data structures, problem solving, complexity analysis, review notes |
-| `[02] Robotics` | ROS, sensors, mapping, control, and robot experiments |
-| `[03] PaperReading` | AI / robotics papers, method summaries, reproduction ideas |
-| `[04] AI Tools` | Codex workflows, local agents, automation, and useful prototypes |
+| `[01] AlgorithmLab` | 数据结构、算法题、复杂度分析、错题复盘 |
+| `[02] Robotics` | ROS、传感器、建图、控制、机器人实验 |
+| `[03] PaperReading` | AI / Robotics 论文阅读、方法总结、复现线索 |
+| `[04] AI Tools` | Codex 工作流、本地 agents、自动化脚本、实用原型 |
 
 ---
 
-## Toolbox
+## 工具箱
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2b2f38?style=flat-square&logo=python&logoColor=ffcf56" alt="Python" />
@@ -54,26 +54,26 @@ workspace   : notes, experiments, tools, local agents
 </p>
 
 ```text
-> primary language  : Python / C++
-> robot stack       : ROS / Linux
-> writing format    : Markdown notes
-> assistant layer   : Codex + local workflows
+> 主要语言      : Python / C++
+> 机器人栈      : ROS / Linux
+> 记录方式      : Markdown notes
+> 辅助工作流    : Codex + local workflows
 ```
 
 ---
 
-## Archive
+## 档案索引
 
-| Repository Zone | Description |
+| 区域 | 内容 |
 | --- | --- |
-| `AlgorithmLab` | Algorithms, data structures, and problem-solving records |
-| `PaperReading` | Research notes, paper summaries, and reading traces |
-| `Robotics` | ROS practice, robot experiments, sensors, mapping, and control |
-| `Workbench` | Scripts, small tools, automation, and prototype ideas |
+| `AlgorithmLab` | 算法、数据结构、题解记录与复盘 |
+| `PaperReading` | 论文笔记、阅读摘要、方法拆解 |
+| `Robotics` | ROS 实践、机器人实验、传感器、建图与控制 |
+| `Workbench` | 脚本、小工具、自动化和临时原型 |
 
 ---
 
-## GitHub Signal
+## GitHub 信号
 
 <div align="center">
 
@@ -84,8 +84,42 @@ workspace   : notes, experiments, tools, local agents
 
 ---
 
+## 活动轨迹
+
 <div align="center">
 
-`// archive is still growing`
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xingxixia&bg_color=ffffff&color=2b2f38&line=5b8def&point=ff7aa2&area=true&area_color=cdb4ff&hide_border=true&custom_title=Contribution%20Signal)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 贡献贪吃蛇
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingxixia/xingxixia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xingxixia/xingxixia/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/xingxixia/xingxixia/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 星标趋势
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xingxixia/xingxixia&type=Date)](https://star-history.t9t.io/#xingxixia/xingxixia&Date)
+
+</div>
+
+---
+
+<div align="center">
+
+`// 档案仍在更新中`
 
 </div>
