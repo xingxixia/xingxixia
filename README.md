@@ -28,19 +28,6 @@
 
 > 我想把零散的学习过程整理成可以回头看的笔记、可以运行的实验，以及能真正帮到自己的小工具。
 
----
-
-## 研究轨道
-
-| 轨道 | 当前关注 |
-| --- | --- |
-| `[01] AlgorithmLab` | 数据结构、算法题、复杂度分析、错题复盘 |
-| `[02] Robotics` | ROS、传感器、建图、控制、机器人实验 |
-| `[03] PaperReading` | AI / Robotics 论文阅读、方法总结、复现线索 |
-| `[04] AI Tools` | Codex 工作流、本地 agents、自动化脚本、实用原型 |
-
----
-
 ## 工具箱
 
 <p align="center">
@@ -105,18 +92,6 @@
 </picture>
 
 </div>
-
----
-
-## 星标趋势
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xingxixia/xingxixia&type=Date)](https://star-history.t9t.io/#xingxixia/xingxixia&Date)
-
-</div>
-
----
 
 <div align="center">
 
