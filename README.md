@@ -1,64 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xingxixia/xingxixia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm xingxixia
 
-Here are some ideas to get you started:
+### Algorithms · Robotics · Paper Reading · AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building a personal lab for learning, research notes, robotics experiments, and small useful tools.
 
-# Xingxixia Lab
+<br />
 
-> A personal lab for algorithms, robotics, papers, AI tools, and small experiments.
+[![GitHub](https://img.shields.io/badge/GitHub-xingxixia-181717?style=for-the-badge&logo=github)](https://github.com/xingxixia)
+![Profile Views](https://komarev.com/ghpvc/?username=xingxixia&style=for-the-badge&color=0f766e)
+
+</div>
 
 ---
 
-## Now
+## About Me
 
-- Learning algorithms and data structures
-- Working with ROS / robotics experiments
-- Reading AI and robotics papers
-- Building small tools with Codex and local agents
+- Learning algorithms and data structures step by step
+- Practicing robotics with ROS, sensors, mapping, and control
+- Reading AI and robotics papers, then turning ideas into notes and experiments
+- Building small tools with Codex, local agents, and practical automation
+
+## Current Workspaces
+
+| Area | What I Use It For |
+| --- | --- |
+| **AlgorithmLab** | Algorithms, data structures, problem solving, and review notes |
+| **Robotics** | ROS practice, sensors, mapping, control, and robot experiments |
+| **PaperReading** | Paper notes, research summaries, figures, and reproduction ideas |
+| **Workbench** | Small tools, scripts, prototypes, and useful experiments |
+| **AI Tools** | Codex workflows, local agents, and automation ideas |
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xingxixia&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingxixia&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+
+</div>
+
+## Learning Rhythm
+
+```text
+Read    -> understand the problem and the core idea
+Build   -> turn notes into runnable code or experiments
+Review  -> collect mistakes, patterns, and next actions
+Repeat  -> make the knowledge less fragile
+```
 
 ---
 
-## Stack
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+Still under construction. This profile will grow with my notes, projects, and experiments.
 
----
-
-## GitHub
-
-![xingxixia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingxixia&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingxixia&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## Workspaces
-
-- **AlgorithmLab** - algorithms, data structures, and problem solving
-- **PaperReading** - paper notes and research summaries
-- **Workbench** - small tools, experiments, and messy useful things
-- **Robotics** - ROS, sensors, mapping, and robot practice
-- **AI Tools** - Codex workflows, agents, and local utilities
-
----
-
-## Links
-
-![Profile Views](https://komarev.com/ghpvc/?username=xingxixia&color=blueviolet)
+</div>
