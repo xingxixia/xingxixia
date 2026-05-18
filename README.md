@@ -85,6 +85,6 @@
 
 <div align="center">
 
-<img src="./assets/contribution-snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/xingxixia/xingxixia/main/assets/contribution-snake.svg" alt="Contribution snake" />
 
 </div>
